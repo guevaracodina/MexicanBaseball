@@ -11,3 +11,5 @@ Juan Carlos Torres-Galván, Orlando Guarneros García, Francisco Oviedo-Tolentin
 **Under Review**
 
 ![Graphical Abstract](https://github.com/guevaracodina/MexicanBaseball/blob/main/GraphicalAbstract1.png)
+
+[![DOI](https://zenodo.org/badge/467644380.svg)](https://zenodo.org/badge/latestdoi/467644380)
