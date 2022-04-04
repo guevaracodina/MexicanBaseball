@@ -4,7 +4,7 @@ Analysis of the physical construction of the new baseball and its association wi
 
 Please cite:
 
-_Influence of baseball construction on the increase in offensive statistics in the Mexican baseball league_
+_Influence of the baseball construction on the offensive performance in a professional baseball league_
 
 Juan Carlos Torres-Galván, Orlando Guarneros García, Francisco Oviedo-Tolentino Jaime Meade Collins, Edgar Guevara
 
