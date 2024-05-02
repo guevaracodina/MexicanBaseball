@@ -6,7 +6,7 @@ Please cite:
 
 _Influence of the baseball construction on the offensive performance in a professional baseball league_
 
-Juan Carlos Torres-Galván, Orlando Guarneros García, Francisco Oviedo-Tolentino Jaime Meade Collins, Edgar Guevara
+Juan Carlos Torres-Galván, Michelle Goodrick, Orlando Guarneros García, Francisco Oviedo-Tolentino, Edgar Guevara
 
 **Under Review**
 
