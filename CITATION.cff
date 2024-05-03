@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Torres-Galván"
+  given-names: "Juan Carlos "
+  orcid: "https://orcid.org/0000-0002-6118-8049"
+- family-names: "Goodrick"
+  given-names: "Michelle"
+  orcid: "https://orcid.org/0000-0001-8953-4161"
+- family-names: "Guarneros García"
+  given-names: "Orlando"
+  orcid: "https://orcid.org/0000-0003-4307-7377"
+- family-names: "Oviedo-Tolentino"
+  given-names: "Francisco"
+  orcid: "https://orcid.org/0000-0003-3858-6732"
+- family-names: "Guevara"
+  given-names: "Edgar"
+  orcid: "https://orcid.org/0000-0002-2313-2810"
+title: "More than talent: How baseball composition may affect offensive outcome"
+version: 1.0.0
+doi: 10.5281/zenodo.6338756
+date-released: 2024-03-08
+url: "https://github.com/guevaracodina/MexicanBaseball/"
